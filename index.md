@@ -1,32 +1,21 @@
-![logo](/docs/assets/SWRVSocial_Logo.png)
-Swrv Social is a space to build a community of diverse thinkers, who need a mental escape through expression of sport, music, poetry, blogging, and other various art forms. The list will remain fluid, as we continue to evolve.
+![logo](/docs/assets/SWRVSocial_Logo.png) 
+***
+Swrv Social is a space to build a community of diverse thinkers, who need a mental escape through expression of sport, music, poetry, blogging, and other various art forms. The list will remain fluid, as we continue to evolve. 
 
 The tagline speaks to the values of the community.............
 ​
-<p align="center">
-Live everyday with purpose.
-<p align="center">Love everyday unconditionally.
-<p align="center">Choice is always yours.
+**<p align="center"><em>Live everyday with purpose.**</em>
+  **<p align="center"><em>Love everyday unconditionally.**</em>
+    **<p align="center"><em>Choice is always yours.**</em>
 </p>
 
-<p align="center"><em>Quote of the Day</em></p>
+## Quote of the Day
 
-<p align="center">What you think, you become. What you feel, you attract. What you imagine, you create.
+<em>What you think, you become. What you feel, you attract. What you imagine, you create.</em>
 
-  -Buddha </p>
+  <em>**-Buddha**</em>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
