@@ -1,6 +1,23 @@
-## Welcome to GitHub Pages
+![logo](SWRVSocial_Logo.jpg)
+# SWRVSOCIAL 
+### Live.Love.Choice
 
-You can use the [editor on GitHub](https://github.com/maicadk/swrv-social/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
+Swrv Social is a space to build a community of diverse thinkers, who need a mental escape through expression of sport, music, poetry, blogging, and other various art forms. The list will remain fluid, as we continue to evolve.
+
+The tagline speaks to the values of the community.............
+​
+<p align="center">
+Live everyday with purpose.
+<p align="center">Love everyday unconditionally.
+<p align="center">Choice is always yours.
+</p>
+
+<p align="center"><em>Quote of the Day</em></p>
+
+<p align="center">What you think, you become. What you feel, you attract. What you imagine, you create.
+
+  -Buddha </p>
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
