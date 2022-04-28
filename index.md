@@ -1,8 +1,4 @@
-![logo](SWRVSocial_Logo.jpg)
-# SWRVSOCIAL 
-### Live.Love.Choice
-
-
+![logo](/docs/assets/SWRVSocial_Logo.png)
 Swrv Social is a space to build a community of diverse thinkers, who need a mental escape through expression of sport, music, poetry, blogging, and other various art forms. The list will remain fluid, as we continue to evolve.
 
 The tagline speaks to the values of the community.............
