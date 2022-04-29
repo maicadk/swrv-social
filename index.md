@@ -1,4 +1,4 @@
-![logo](/docs/assets/SWRVSocial_Logo.png) https://github.com/maicadk/swrv-social/issues/1#issue-1219411604
+![logo](/docs/assets/SWRVSocial_Logo.png) 
 ***
 Swrv Social is a space to build a community of diverse thinkers, who need a mental escape through expression of sport, music, poetry, blogging, and other various art forms. The list will remain fluid, as we continue to evolve. 
 
